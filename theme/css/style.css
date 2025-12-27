@@ -149,17 +149,4 @@ footer a {
         flex-wrap: wrap;
         justify-content: center;
     }
-
-    #sampleFormPanel dt {
-        float: none;
-        width: 100%;
-        text-align: left;
-        margin-bottom: 0.25rem;
-        line-height: 1.5;
-    }
-
-    #sampleFormPanel dd {
-        margin-left: 0;
-        margin-bottom: 1.5rem;
-    }
 }
